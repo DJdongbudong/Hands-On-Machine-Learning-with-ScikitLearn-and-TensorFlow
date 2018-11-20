@@ -1,3 +1,7 @@
+'''
+We can learn from china's https://blog.csdn.net/fjl_CSDN
+from dongjinhua
+'''
 Machine Learning Notebooks
 ==========================
 
